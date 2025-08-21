@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.web-3{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 35px;
+    
+
+}
+
+.container-wrappar{
+    font-size: 25px;
+    padding-right: 80%;
+    
+}
+.menu{
+     list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 30vh;
+    height: 90vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 50px;
+    margin-top: -47%;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+
+.editors-container{
+    margin-left: 22%;
+    margin-right: 3%;
+    margin-top: -35%;
+    font-size: 35px;
+}
